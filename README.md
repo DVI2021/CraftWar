@@ -1,5 +1,8 @@
 # WarCraft
 
+## Link del juego
+[Link del CraftWar](https://dvi2021.github.io/CraftWar/index.html)
+
 ## Descripción
 Juego desarrollado para la asignatura "Desarrollo de Videojuegos mediante tecnologías Web", optativa de la Facultad de Informática de la Universidad Complutense de Madrid.
    
@@ -148,6 +151,5 @@ Listaremos una serie de bugs conocidos, que no pudimos solucionar, por falta de 
 
 # Enlace del video
 [Video del CraftWar](https://youtu.be/PsUboURcoic)
-# Link del juego
-[Link del CraftWar](https://dvi2021.github.io/CraftWar/index.html)
+
 
