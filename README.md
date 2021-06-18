@@ -147,4 +147,7 @@ Listaremos una serie de bugs conocidos, que no pudimos solucionar, por falta de 
 
 
 # Enlace del video
-[Video del CraftWar](https://youtu.be/Lthw2l0iCUs)
+[Video del CraftWar](https://youtu.be/PsUboURcoic)
+# Link del juego
+[Link del CraftWar](https://dvi2021.github.io/CraftWar/index.html)
+
