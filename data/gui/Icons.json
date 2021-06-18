@@ -1,0 +1,15 @@
+{
+  "human_peasan_gui":{"sx":6,"sy":5,"tileW":46,"tileH":38,"frames":0},
+  "orc_peasan_gui":{"sx":55,"sy":5,"tileW":46,"tileH":38, "frames":0 },
+  "human_archer_gui": {"sx":201,"sy":5,"tileW":46,"tileH":38, "frames":0 },
+  "human_kni_gui": {"sx":105,"sy":5,"tileW":46,"tileH":38, "frames":0 },
+  "grunt_gui": {"sx":153,"sy":5,"tileW":46,"tileH":38, "frames":0 },
+  "axethrower_gui": {"sx":251,"sy":5,"tileW":46,"tileH":38, "frames":1 },
+  "build_gui": {"sx":349,"sy":333,"tileW":46,"tileH":38, "frames":0 },
+  "farmIcon": {"sx":398,"sy":128,"tileW":46,"tileH":38,"frames":0 },
+  "stop_icon": {"sx":54,"sy":373,"tileW":46,"tileH":38,"frames":0 },
+  "barracks_icon": {"sx":8,"sy":170,"tileW":46,"tileH":38,"frames":0 },
+  "castle_gui": {"sx":105,"sy":170,"tileW":46,"tileH":38,"frames":0 },
+  "workWood_gui": {"sx":203,"sy":170,"tileW":46,"tileH":38,"frames":0 },
+  "battlePoint_gui": {"sx":55,"sy":292,"tileW":46,"tileH":38,"frames":0 }
+}

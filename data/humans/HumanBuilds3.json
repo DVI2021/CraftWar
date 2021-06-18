@@ -1,0 +1,4 @@
+{
+	"woodwork":{"sx":102,"sy":0,"tileW":102,"tileH":98,"frames":2 , "cols": 1},
+	"barracks":{"sx":306,"sy":196,"tileW":102,"tileH":98,"frames":2 , "cols": 1}
+}

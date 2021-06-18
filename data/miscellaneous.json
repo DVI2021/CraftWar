@@ -1,0 +1,7 @@
+{
+	"arrow_up":{"sx":821,"sy":116,"tileW":4,"tileH":30,"frames":1},
+    "arrow_side":{"sx":888,"sy":130,"tileW":30,"tileH":4,"frames":1},
+    "arrow_down":{"sx":981,"sy":116,"tileW":4,"tileH":30,"frames":1},
+
+    "axe":{"sx":959,"sy":15,"tileW":20,"tileH":22, "spacingX": 10, "spacingY": 0,"frames":3}
+}
