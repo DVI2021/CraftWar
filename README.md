@@ -144,3 +144,7 @@ Listaremos una serie de bugs conocidos, que no pudimos solucionar, por falta de 
 * Añadir un minimapa
 * Crear una IA que gestione rescursos, cree edificios y tropas para construir un campamento y atacar al usuario.
 * Añadir banda sonora dinámica y efectos de sonido.
+
+
+# Enlace del video
+[Video del CraftWar](https://youtu.be/Lthw2l0iCUs)
